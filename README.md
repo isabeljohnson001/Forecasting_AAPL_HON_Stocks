@@ -5,7 +5,7 @@ The dataset contains the historical stock prices for Apple Inc (AAPL) and Honeyw
 
 ## Quick start
 
-- [Download from Github](https://github.com/isabeljohnson001/sForecasting_AAPL_HON_Stocks) or clone the
+- [Download from Github](https://github.com/isabeljohnson001/Forecasting_AAPL_HON_Stocks/archive/refs/heads/main.zip) or clone the
   repo: `git clone https://github.com/isabeljohnson001/Forecasting_AAPL_HON_Stocks.git`
 
 - Download the .xlsx file.Sheet -1 contains data regarding the stocks.Part-1,Part-2,Part-3 contains the application of forecasting methods.
